@@ -1,1 +1,2 @@
-
+*.cache
+Settings/Session.sublime_session
