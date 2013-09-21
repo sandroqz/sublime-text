@@ -1,5 +1,5 @@
 *.cache
 
-Settings/Session.sublime_session
+/Settings
 
 Packages/User/Package Control.last-run
