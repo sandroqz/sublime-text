@@ -1,2 +1,5 @@
 *.cache
+
 Settings/Session.sublime_session
+
+Packages/User/Package Control.last-run
