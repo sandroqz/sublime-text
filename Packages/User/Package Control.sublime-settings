@@ -3,6 +3,7 @@
 	[
 		"Alignment",
 		"ApplySyntax",
+		"BracketHighlighter",
 		"Keymaps",
 		"Package Control",
 		"SideBarEnhancements"
