@@ -10,39 +10,5 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
-      {
-      "name": "Ruby on Rails snippets/Ruby on Rails",
-      "rules": [
-        {"file_name": "\\.rb$"}
-      ]
-    },
-
-    {
-      "name": "Ruby",
-      "rules": [
-        {"file_name": "\\.ru$"}
-      ]
-    },
-
-    {
-      "name": "RSpec",
-      "rules": [
-        {"file_name": "_spec\\.rb$"}
-      ]
-    },
-
-    {
-      "name": "Jasmine",
-      "rules": [
-        {"file_name": "_spec\\.js$"}
-      ]
-    },
-
-    {
-      "name": "Coffeescript",
-      "rules": [
-        {"file_name": "\\.coffee$"}
-      ]
-    }
     ]
 }
