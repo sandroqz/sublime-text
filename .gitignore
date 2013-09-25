@@ -1,5 +1,6 @@
 *.cache
 
+/Backup
 /Settings
 
 Packages/User/Package Control.last-run
